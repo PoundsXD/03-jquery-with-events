@@ -66,7 +66,7 @@ articleView.handleCategoryFilter = function() {
       $('article').show();
       $('article.template').hide();
     }
-    $('#category-filter').val('');
+    $('#author-filter').val('');
   });
 };
 
